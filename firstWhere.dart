@@ -12,3 +12,16 @@ void main() {
 // ISSO É UMA BUSCA POR PADRÕES 
 
 // PEGA A PRIMEIRA OCORRENCIA DE ACORDO COM MEU PARAMETRO 
+
+
+/* var user 
+void  main () {
+   var users = <String>["Denise", "João", "Eduardo"];
+   String? item = users.firstWhere((e) => e.contains("i"));
+   print(item);
+}
+
+Este código traz a primeira ocorrência onde acontecer a letra "i".
+Existem outros métodos, como "começa com, termina com etc."
+
+*/
